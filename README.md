@@ -1,6 +1,6 @@
 # 🔍 LLM Comparison Insights Dashboard
 
-This project presents a data-driven comparison of over **200 Large Language Models (LLMs)**, analyzed and visualized using **Power BI**. It offers insights into performance, cost-efficiency, compute power, and model architecture (open-source vs proprietary) — helping developers, researchers, and businesses make informed decisions about which LLMs to adopt.
+This project presents a data-driven comparison of about **200 Large Language Models (LLMs)**, analyzed and visualized using **Power BI**. It offers insights into performance, cost-efficiency, compute power, and model architecture (open-source vs proprietary) — helping developers, researchers, and businesses make informed decisions about which LLMs to adopt.
 
 ---
 
